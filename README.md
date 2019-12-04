@@ -43,7 +43,7 @@ https://realpython.com/installing-python/
 >- Read the overview and goals of the project.
 >- Learn about rubik’s cube,its working, the problem and its logical structure.
 >- Read up on rubik's cube solving algorithms.
->- Study Computer Visionand its application in image processing .
+>- Study Computer Vision and its application in image processing .
 
 ### Phase II
 >- Set up environment(Python and OpenCV).
@@ -57,7 +57,7 @@ https://realpython.com/installing-python/
 >- Developing a simple interface to describe the instructions to solve cube to the user.
 
 ### Phase IV
- >-Expolring  Augmented Reality for better visual representation and improving GUI.
+>- Expolring  Augmented Reality for better visual representation and improving GUI.
 
 ## Contributing
 You can contribute in several ways. If you know how to code or are a designer, you are welcome to contribute using pull requests. You can also contribute by opening issues about defects and things that could be improved or request entirely new features that you think would help others. Join the Slack Communication Channel
